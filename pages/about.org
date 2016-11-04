@@ -37,7 +37,7 @@ such work may require us to be more restrictive:
 - For the licenses of projects linked from this page see the license information
   included with each project.
 
-- For the source code used to generate the web pages see [[https://github.com/dropletkitchen/dropletkitchen.github.io][the source code]] for
+- For the source code used to generate the web pages see [[https://github.com/dropletkitchen/dropletkitchen.github.io/tree/src][the source code]] for
   its licenses.
 
 
