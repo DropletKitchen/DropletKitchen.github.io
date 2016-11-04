@@ -1,0 +1,39 @@
+#+BEGIN_COMMENT
+.. title: Welcome to the DropletKitchen
+.. slug: ../index
+.. date: 2016-10-31 13:04:34 UTC
+.. description:
+.. type: text
+#+END_COMMENT
+
+
+
+
+* Open Instrumentation and Howtos for Microfluidics
+*** Flexible and affordable droplet microfluidics with digital fabrication, open hardware and open source software.
+
+
+***  :noexport:
+
+[[file: images/blackpumps.jpeg]]
+
+[[file: images/plarig.jpeg]]
+
+[[file: images/chips.jpeg]]
+
+[[file: images/dropgen.jpeg]]
+
+[[file: images/openscad.jpeg]]
+
+
+
+
+[[file: images/dryresist.jpeg]]
+
+[[file: images/whiterig.jpeg]]
+
+[[file: images/boardcam.jpeg]]
+
+[[file: images/drops.jpeg]]
+
+[[file: images/mirorig.jpeg]]
