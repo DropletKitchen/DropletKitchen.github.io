@@ -1,0 +1,15 @@
+#+TITLE:  DropletKitchen.github.io
+
+* Open Instrumentation and Howtos for Microfluidics
+
+Source code for contents and site generation for https://dropletkitchen.github.io/
+** License
+*** Contents of the pages
+Website contents © 2016 Martin Fischlechner, Jonathan West, Klaus-Peter Zauner,
+provided under a [[https://creativecommons.org/licenses/by/4.0/][CC BY 4.0]] license.
+
+*** Source for page generation and page theme
+
+The [[ https://dropletkitchen.github.io/][DropletKitchen]] site is generated with [[https://getnikola.com/][Nikola]] using [[http://bootswatch.com/][Bootwatch]]'s Flatly Theme
+for [[http://getbootstrap.com/][Bootstrap]] and components of or derived from their source code are included
+in this repository under MIT license; see the file LICENSE.
