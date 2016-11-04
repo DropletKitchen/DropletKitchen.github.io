@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.colorbox.settings,{current:"Slika {current} od {total}",previous:"Prethodna",next:"Sljede\u0107a",close:"Zatvori",xhrError:"Neuspje\u0161no u\u010ditavanje sadr\u017eaja.",imgError:"Neuspje\u0161no u\u010ditavanje slike.",slideshowStart:"Pokreni slideshow",slideshowStop:"Zaustavi slideshow"});

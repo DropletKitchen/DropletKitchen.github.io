@@ -1,0 +1,1 @@
+function fancydates(a,b){if(0!=a){dates=$("time.published.dt-published");i=0;l=dates.length;for(i=0;i<l;i++)d=moment(dates[i].attributes.datetime.value),o=1==a?d.local().format(b):d.fromNow(),dates[i].innerHTML=o}};

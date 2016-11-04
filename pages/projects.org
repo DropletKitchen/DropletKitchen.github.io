@@ -1,0 +1,25 @@
+#+BEGIN_COMMENT
+.. title: Projects
+.. slug: projects
+.. date: 2016-10-31 05:26:11 UTC
+.. tags:
+.. description:
+.. type: text
+#+END_COMMENT
+
+
+
+
+This site links to our Github Projects Pages.
+
+* Low-cost, high performance syringe pumps for microfluidics applications
+-link
+
+* Microfluidics Imaging Rigs with Caged Optics
+-link
+
+* Simple Microfluidics Rigs with Inexpensive Board Cameras
+-link
+
+* Light strobing to improve images from cameras
+-link

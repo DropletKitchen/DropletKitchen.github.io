@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.colorbox.settings,{current:"{current}. obrazek z {total}",previous:"Poprzedni",next:"Nast\u0119pny",close:"Zamknij",xhrError:"Nie uda\u0142o si\u0119 za\u0142adowa\u0107 tre\u015bci.",imgError:"Nie uda\u0142o si\u0119 za\u0142adowa\u0107 obrazka.",slideshowStart:"rozpocznij pokaz slajd\u00f3w",slideshowStop:"zatrzymaj pokaz slajd\u00f3w"});

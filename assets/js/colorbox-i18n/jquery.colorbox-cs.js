@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.colorbox.settings,{current:"{current}. obr\u00e1zek z {total}",previous:"P\u0159edchoz\u00ed",next:"N\u00e1sleduj\u00edc\u00ed",close:"Zav\u0159\u00edt",xhrError:"Obsah se nepoda\u0159ilo na\u010d\u00edst.",imgError:"Obr\u00e1zek se nepoda\u0159ilo na\u010d\u00edst.",slideshowStart:"Spustit slideshow",slideshowStop:"Zastavit slideshow"});

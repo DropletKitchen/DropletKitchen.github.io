@@ -1,0 +1,4 @@
+Sitemap: https://DropletKitchen.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: DropletKitchen.github.io

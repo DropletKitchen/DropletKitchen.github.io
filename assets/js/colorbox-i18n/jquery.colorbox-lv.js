@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.colorbox.settings,{current:"att\u0113ls {current} no {total}",previous:"iepriek\u0161\u0113jais",next:"n\u0101kamais",close:"aizv\u0113rt",xhrError:"Neizdev\u0101s iel\u0101d\u0113t saturu.",imgError:"Neizdev\u0101s iel\u0101d\u0113t att\u0113lu.",slideshowStart:"s\u0101kt slaidr\u0101di",slideshowStop:"aptur\u0113t slaidr\u0101di"});

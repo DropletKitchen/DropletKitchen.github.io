@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.colorbox.settings,{current:"Imatge {current} de {total}",previous:"Anterior",next:"Seg\u00fcent",close:"Tancar",xhrError:"Error en la c\u00e0rrega del contingut.",imgError:"Error en la c\u00e0rrega de la imatge."});

@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.colorbox.settings,{current:"G\u00f6rsel {current} / {total}",previous:"\u00d6nceki",next:"Sonraki",close:"Kapat",xhrError:"\u0130\u00e7erik y\u00fcklenirken hata meydana geldi.",imgError:"Resim y\u00fcklenirken hata meydana geldi.",slideshowStart:"Slayt\u0131 Ba\u015flat",slideshowStop:"Slayt\u0131 Durdur"});

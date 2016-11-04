@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.colorbox.settings,{current:"Slika {current} od {total}",previous:"Prej\u0161nja",next:"Naslednja",close:"Zapri",xhrError:"Vsebine ni bilo mogo\u010de nalo\u017eiti.",imgError:"Slike ni bilo mogo\u010de nalo\u017eiti.",slideshowStart:"Za\u017eeni prezentacijo",slideshowStop:"Zaustavi prezentacijo"});
