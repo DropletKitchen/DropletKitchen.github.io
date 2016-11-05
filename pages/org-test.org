@@ -12,13 +12,12 @@
 
 
 #+BEGIN_abstract
-     /This document/ demonstrates how to use ~emacs org-mode~ to
-     generate an article formatted for a =Nikola= website. It
-     combines a number
+     /This document/ demonstrates how to use ~emacs org-mode~ to generate
+     an article formatted for a =Nikola= website. It combines a number
      of the most common features required, such as citations, figures,
-     tables and cross-referencing. As such it serves as a test-suit for
-     the configuration and at the same time as documentation in form
-     of a collection of usage samples.
+     tables and cross-referencing. As such it serves as a test-suit
+     for the configuration and at the same time as documentation in
+     form of a collection of usage samples.
 #+END_abstract
 
 #+TOC: headlines 1
@@ -82,6 +81,12 @@ A comment on this subsection's material. This will not be exported.
  TiKZ images[fn:1: See http://www.texample.net/tikz/examples/.] more
  LaTeX source is required as can be seen in Fig. \ref{fg:curves}.
 
+** Image with Linked Large Version
+: [[../images/pumps-x800.jpeg][file:../images/pumps-x300.jpeg]]
+
+[[../images/pumps-x800.jpeg][file:../images/pumps.thumbnail.jpeg]]
+
+
 * Figures
 
 ** Jpeg Images
@@ -90,6 +95,8 @@ A comment on this subsection's material. This will not be exported.
 #+ATTR_HTML: :align right
 file:/images/test.png
 
+
+***
 
 ** PNG Images
 #+NAME: fg:cross
@@ -122,7 +129,6 @@ file:/images/test.png
 ** Image Link
 
 [[../../../images/test.png][../../../images/scr.thumbnail.png]]
-
 
 
 ** Pyplot
