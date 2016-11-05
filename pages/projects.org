@@ -13,7 +13,7 @@ repository for each project contains all design-files, software code, descriptio
 
 
 --------------
-* [[https:github.com/DropletKitchen/pumpsn17][Low-cost, High-performance Syringe Pumps for Microfluidics Applications]]
+* [[https://github.com/DropletKitchen/pumpsn17][Low-cost, High-performance Syringe Pumps for Microfluidics Applications]]
 #+ATTR_HTML: :align left :hspace 10
 [[../images/pumps.jpeg][file:../images/pumps-shrk.jpeg]]
 
@@ -26,7 +26,7 @@ live modifications and straightforward automation.
 #+HTML: <br clear="all"/>
 --------------
 
-* [[https:github.com/DropletKitchen/cagedopt][Microfluidics Imaging Rigs with Caged Optics]]
+* [[https://github.com/DropletKitchen/cagedopt][Microfluidics Imaging Rigs with Caged Optics]]
 #+ATTR_HTML: :align right :hspace 10
 [[../images/rig-cage.jpeg][file:../images/rig-cage-shrk.jpeg]]
 
@@ -39,8 +39,7 @@ as structural components.
 --------------
 
 
-* [[https:github.com/DropletKitchen/simplerigs][Simple Microfluidics Rigs with Inexpensive Board Cameras]]
-
+* [[https://github.com/DropletKitchen/simplerigs][Simple Microfluidics Rigs with Inexpensive Board Cameras]]
 With the same approach from above, small microfluidic rigs equipped
 with inexpensive board cameras can be designed that are well suited
 for simple requirements, for example real-time quality control for
@@ -52,7 +51,7 @@ generating samples.
 --------------
 
 
-* [[https:github.com/DropletKitchen/strobe][Light Strobing to Improve Images from Cameras]]
+* [[https://github.com/DropletKitchen/strobe][Light Strobing to Improve Images from Cameras]]
 
 In this project an electronics circuit for strobing LEDs or laser
 diodes is shown that allows to significantly improve the performance
