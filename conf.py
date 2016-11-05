@@ -48,7 +48,10 @@ DATE_FORMAT = '%d.%m.%Y'
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
-FILES_FOLDERS = {'files': ''}
+FILES_FOLDERS = {
+    'files': '',
+    'imgs': 'images'
+}
 # Which means copy 'files' into 'output'
 
 # One or more folders containing code listings to be processed and published on
@@ -123,7 +126,6 @@ from nikola import filters
 FILTERS = {
    ".html": [filters.typogrify],
    ".js": [filters.closure_compiler],
-   ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
 }
 
 
@@ -138,23 +140,24 @@ FILTERS = {
 # Default is:
 # GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
-THUMBNAIL_SIZE = 180
-MAX_IMAGE_SIZE = 1280
+#THUMBNAIL_SIZE = 180
+#MAX_IMAGE_SIZE = 1280
 # USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
 #
 # If set to False, it will sort by filename instead. Defaults to True
-GALLERY_SORT_BY_DATE = False
-PRESERVE_EXIF_DATA = False
+#GALLERY_SORT_BY_DATE = False
+#PRESERVE_EXIF_DATA = False
 
 # Images will be scaled down according to IMAGE_THUMBNAIL_SIZE and MAX_IMAGE_SIZE
 # options, but will have to be referenced manually to be visible on the site
 # (the thumbnail has ``.thumbnail`` added before the file extension).
 
+# Bypass this with FILES_FOLDERS setting:
 IMAGE_FOLDERS = {
-    'images': 'images',
+   #  'images': 'images',
 }
-IMAGE_THUMBNAIL_SIZE = 400
+#IMAGE_THUMBNAIL_SIZE = 280
 
 
 # #############################################################################
