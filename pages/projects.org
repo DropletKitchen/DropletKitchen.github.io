@@ -53,8 +53,7 @@ generating samples.
 
 * [[https://github.com/DropletKitchen/strobe][Light Strobing to Improve Images from Cameras]]
 
-#+ATTR_HTML: :align right :hspace 10
-[[../images/strobecirc.jpeg][file:../images/strobecirc-shrk.jpeg]]
+
 
 In this project an electronics circuit for strobing LEDs or laser
 diodes is shown that allows to significantly improve the performance
@@ -64,6 +63,7 @@ is, it allows to generate light pulses with a duration down to one
 microsecond.
 
 
-
-#+HTML: <br clear="all"/>
+#+HTML: <center>
+[[../images/strobingFirefly.jpeg][file:../images/strobingFirefly-420x.jpeg]]
+#+HTML: </center> <br clear="all"/>
 --------------
