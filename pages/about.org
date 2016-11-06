@@ -5,12 +5,12 @@
 #+END_COMMENT
 
 
-
 * Contributors
 
 - Martin Fischlechner
 - Jonathan West
 - Klaus-Peter Zauner
+
 
 * Contact
 
@@ -20,30 +20,34 @@ Please contact us for suggestions, improvements, or if you need to have somethin
 
 * Contribute
 
-If you like our gadgets and tools, please use, improve and adapt them for other
-applications. Get an account on github, fork our projects or create
-new ones. If you want your work to be linked from this page, just email.
+If you like our gadgets and tools, please use, improve and adapt them
+for other applications. Get an account on github, fork our projects or
+create new ones. If you want your work to be linked from this page,
+just email.
 
 
 * Licensing
 
-We aim to make our own designs, software, and contributions to be as free as
-possible, but where we build on existing work license restrictions from
-such work may require us to be more restrictive:
+We aim to make our own designs, software, and contributions to be as
+free as possible, but where we build on existing work license
+restrictions from such work may require us to be more restrictive:
 
-- Original content of the DropletKitchen.github.io web site is provided under
+- Original content of the DropletKitchen.github.io web site is
+  provided under a
   [[https://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0 International (CC BY 4.0)]] License.
 
-- For the licenses of projects linked from this page see the license information
-  included with each project.
+- For the licenses of projects linked from this page see the license
+  information included with each project.
 
-- For the source code used to generate the web pages see [[https://github.com/dropletkitchen/dropletkitchen.github.io/tree/src][the source code]] for
-  its licenses.
+- For the source code used to generate the web pages see
+  [[https://github.com/dropletkitchen/dropletkitchen.github.io/tree/src][the source code]] for its license.
 
 
 * Acknowledgements
-The rapid progress we are making in our endeavours is enabled by many people who have
-created and contributed to a whole ecosystem of wonderful free tools. *Thank you!*
 
-- The DropletKitchen website is made with [[https://www.gnu.org/software/emacs][Emacs]]'s [[http://orgmode.org][orgmode]], translated into HTML with [[https://getnikola.com][Nikola,]] and
-  hosted for free by [[https://pages.github.com/][github.com]].
+The rapid progress we are making in our endeavours is enabled by many
+people who have created and contributed to a whole ecosystem of
+wonderful free tools. *Thank you!*
+
+- The DropletKitchen website is made with [[https://www.gnu.org/software/emacs][Emacs]]'s [[http://orgmode.org][orgmode]], translated
+  into HTML with [[https://getnikola.com][Nikola,]] and hosted for free by [[https://pages.github.com/][github.com]].
