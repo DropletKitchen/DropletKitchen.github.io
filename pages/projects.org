@@ -10,9 +10,9 @@ The section headings on this page link to our git repositories. The
 repository for each project contains all design-files, software code, description of components, and instructions necessary to replicate it.
 
 #+TOC: headlines 1
-
-
 --------------
+
+
 * [[https://github.com/DropletKitchen/pumpsn17][Low-cost, High-performance Syringe Pumps for Microfluidics Applications]]
 #+ATTR_HTML: :align left :hspace 10
 [[../images/pumps.jpeg][file:../images/pumps-shrk.jpeg]]
@@ -25,6 +25,7 @@ live modifications and straightforward automation.
 
 #+HTML: <br clear="all"/>
 --------------
+
 
 * [[https://github.com/DropletKitchen/cagedopt][Microfluidics Imaging Rigs with Caged Optics]]
 #+ATTR_HTML: :align right :hspace 10
@@ -40,6 +41,7 @@ as structural components.
 
 
 * [[https://github.com/DropletKitchen/simplerigs][Simple Microfluidics Rigs with Inexpensive Board Cameras]]
+
 With the same approach from above, small microfluidic rigs equipped
 with inexpensive board cameras can be designed that are well suited
 for simple requirements, for example real-time quality control for
@@ -53,8 +55,6 @@ generating samples.
 
 * [[https://github.com/DropletKitchen/strobe][Light Strobing to Improve Images from Cameras]]
 
-
-
 In this project an electronics circuit for strobing LEDs or laser
 diodes is shown that allows to significantly improve the performance
 of global shutter cameras to image fast events. The circuit is
@@ -62,8 +62,6 @@ controlled by a microcontroller and a graphical software frontend. As
 is, it allows to generate light pulses with a duration down to one
 microsecond.
 
-
 #+HTML: <center>
 [[../images/strobingFirefly.jpeg][file:../images/strobingFirefly-420x.jpeg]]
 #+HTML: </center> <br clear="all"/>
---------------

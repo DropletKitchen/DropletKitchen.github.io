@@ -11,29 +11,8 @@
 
 * Open Instrumentation and Howtos for Microfluidics
 *** Flexible and affordable droplet microfluidics with digital fabrication, open hardware and open source software.
+Use the above menu to [[../pages/projects.org][learn more]]...
 
-
-***  :noexport:
-
-[[file: images/blackpumps.jpeg]]
-
-[[file: images/plarig.jpeg]]
-
-[[file: images/chips.jpeg]]
-
-[[file: images/dropgen.jpeg]]
-
-[[file: images/openscad.jpeg]]
-
-
-
-
-[[file: images/dryresist.jpeg]]
-
-[[file: images/whiterig.jpeg]]
-
-[[file: images/boardcam.jpeg]]
-
-[[file: images/drops.jpeg]]
-
-[[file: images/mirorig.jpeg]]
+ [[../images/sq-whiterig.jpeg]]
+ [[../images/sq-blackpumps.jpeg]]  [[../images/sq-dropgen.jpeg]]
+ [[../images/sq-plarig.jpeg]]      [[../images/sq-chips.jpeg]]    [[../images/sq-openscad.jpeg]]    [[../images/sq-dryresist.jpeg]]   [[../images/sq-boardcam.jpeg]]    [[../images/sq-drops.jpeg]]       [[../images/sq-mirorig.jpeg]]
