@@ -13,6 +13,15 @@
 *** Flexible and affordable droplet microfluidics with digital fabrication, open hardware and open source software.
 Use the above menu to [[../pages/projects.org][learn more]]...
 
+#+HTML: <center>
  [[../images/sq-whiterig.jpeg]]
- [[../images/sq-blackpumps.jpeg]]  [[../images/sq-dropgen.jpeg]]
- [[../images/sq-plarig.jpeg]]      [[../images/sq-chips.jpeg]]    [[../images/sq-openscad.jpeg]]    [[../images/sq-dryresist.jpeg]]   [[../images/sq-boardcam.jpeg]]    [[../images/sq-drops.jpeg]]       [[../images/sq-mirorig.jpeg]]
+ [[../images/sq-blackpumps.jpeg]]
+ [[../images/sq-dropgen.jpeg]]
+ [[../images/sq-plarig.jpeg]]
+ [[../images/sq-chips.jpeg]]
+ [[../images/sq-openscad.jpeg]]
+ [[../images/sq-dryresist.jpeg]]
+ [[../images/sq-boardcam.jpeg]]
+ [[../images/sq-drops.jpeg]]
+ [[../images/sq-mirorig.jpeg]]
+#+HTML: </center> <br clear="all"/>
