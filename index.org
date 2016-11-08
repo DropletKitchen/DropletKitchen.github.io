@@ -7,13 +7,11 @@
 #+END_COMMENT
 
 
-
-
 * Open Instrumentation and Howtos for Microfluidics
 *** Flexible and affordable droplet microfluidics with digital fabrication, open hardware and open source software.
 Use the above menu to [[../pages/projects.org][learn more]]...
 
-#+HTML: <center>
+#+HTML: <section id="frontgallery">
  [[../images/sq-whiterig.jpeg]]
  [[../images/sq-blackpumps.jpeg]]
  [[../images/sq-dropgen.jpeg]]
@@ -24,4 +22,4 @@ Use the above menu to [[../pages/projects.org][learn more]]...
  [[../images/sq-boardcam.jpeg]]
  [[../images/sq-drops.jpeg]]
  [[../images/sq-mirorig.jpeg]]
-#+HTML: </center> <br clear="all"/>
+#+HTML: </section>
